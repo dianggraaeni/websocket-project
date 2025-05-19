@@ -1,0 +1,8 @@
+﻿# Node & npm
+node_modules/
+
+# Sertifikat / kunci privat
+cert/*.pem
+
+# Log & file sementara
+*.log
